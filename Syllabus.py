@@ -42,7 +42,7 @@ def question_1(answer):
 
 # YOUR SOLUTION HERE
 # Sample incorrect answer
-answer_question_1 = lambda: question_1("Z")
+answer_question_1 = lambda: question_1("C")
 
 
 # **Question 2.**
@@ -63,7 +63,7 @@ def question_2(answer):
 
 # YOUR SOLUTION HERE
 # Sample incorrect answer
-answer_question_2 = lambda: question_2("Z")
+answer_question_2 = lambda: question_2("C")
 
 
 # **Question 3.**
@@ -83,7 +83,7 @@ def question_3(answer):
 
 # YOUR SOLUTION HERE
 # Sample incorrect answer
-answer_question_3 = lambda: question_3("Z")
+answer_question_3 = lambda: question_3("A")
 
 
 # **Question 4.**
@@ -104,7 +104,7 @@ def question_4(answer):
 
 # YOUR SOLUTION HERE
 # Sample incorrect answer
-answer_question_4 = lambda: question_4("Z")
+answer_question_4 = lambda: question_4("C")
 
 
 # **Question 5.**
@@ -124,7 +124,7 @@ def question_5(answer):
 
 # YOUR SOLUTION HERE
 # Sample incorrect answer
-answer_question_5 = lambda: question_5("Z")
+answer_question_5 = lambda: question_5("A")
 
 # Don't forget to push!
 
